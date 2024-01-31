@@ -38,7 +38,3 @@ Use our official _videosdk-rtc-nodejs-sdk-example_ to perform server authenticat
    ```sh
    npm run start
    ```
-
-## Resources
-
-Visit, [https://www.videosdk.live/](https://www.videosdk.live/) to generate API key and secret.
